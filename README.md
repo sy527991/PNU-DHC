@@ -1,4 +1,5 @@
-# PNU-DHC 비교과 프로그램 DH이해하기1
+# PNU-DHC 비교과 프로그램 
+## DH이해하기1
 
 + 보고서 https://g.co/gemini/share/f3b4faad8aa0 
 + 웹페이지 https://g.co/gemini/share/bfa7c4bc3faa 
